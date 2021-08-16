@@ -1,4 +1,4 @@
-﻿CREATE TABLE [dbo].MyTable
+﻿CREATE TABLE [dbo].Employee
 (
 	[Id] INT NOT NULL PRIMARY KEY, 
     [Email] nvarchar(50) null,
